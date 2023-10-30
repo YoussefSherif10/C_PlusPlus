@@ -1,0 +1,4 @@
+# Dooubly Linked List
+I utilised the given templated LinkedList class in this project, which is a doubly-linked list data structure. Developed a few of the member functions for this class that insert items and make sorted copies of lists. The procedure explains how the traditional "merge sort" and "merge" algorithms function as well as how to traverse a list with pointers and join nodes in a doubly-linked list.
+Instead of cpp files, this project's code is primarily found in header files. This is due to the fact that C++ code written using templates must typically be written entirely in header files so the compiler can view the entire template during compilation.
+Unit tests from the Catch library are included in the programme, along with some tests for Coursera's autograder as this course is a part of data structure in C++ course on coursera.
